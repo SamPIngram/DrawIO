@@ -1,47 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T13:01:18.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="AE_eJLMxwzIXUn5x1BhR" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T14:10:50.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="tDhF7uyqIAYgJScITzjt" version="17.4.6" type="github">
   <diagram id="tVCygaFjClMP3GY5ZX3O" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="02nrm9O_5QE9hDwr1A-8-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fillColor=#f5f5f5;dashed=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="290.3" y="59.2" width="409.7" height="310.8" as="geometry" />
+        </mxCell>
         <mxCell id="02nrm9O_5QE9hDwr1A-8-3" value="Eclipse &lt;br style=&quot;font-size: 18px;&quot;&gt;Instance" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;fontSize=18;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="120" y="220" width="80" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="02nrm9O_5QE9hDwr1A-8-10" value="A" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;fontSize=18;fontStyle=1;fontColor=#FF0000;" edge="1" parent="1">
+        <mxCell id="02nrm9O_5QE9hDwr1A-8-10" value="A" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;fontSize=18;fontStyle=1;fontColor=#FF0000;labelBackgroundColor=none;spacingBottom=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="240" as="sourcePoint" />
             <mxPoint x="340" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="02nrm9O_5QE9hDwr1A-8-11" value="GPU &#xa;Compute" style="editableCssRules=.*;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjAgMjAiPiYjeGE7CTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+JiN4YTsJLnN0MHtmaWxsOiM0Mjg1ZjQ7fSYjeGE7CTwvc3R5bGU+JiN4YTsJPHBhdGggY2xhc3M9InN0MCIgZD0iTTEzLjMzIDB2Mi4zOGgtMi4xNlYwSDguODN2Mi4zOEg2LjY3VjBINC4yOXYyLjM4YTIgMiAwIDAgMC0xLjkxIDEuOTFIMHYyLjM4aDIuMzh2Mi4xNEgwdjIuMzhoMi4zOHYyLjE0SDB2Mi4zOGgyLjM4YTIgMiAwIDAgMCAxLjkxIDEuOTFWMjBoMi4zOHYtMi4zOGgyLjE2VjIwaDIuMzR2LTIuMzhoMi4xNlYyMGgyLjM4di0yLjM4YTIgMiAwIDAgMCAxLjkxLTEuOTFIMjB2LTIuMzhoLTIuMzh2LTIuMTRIMjBWOC44MWgtMi4zOFY2LjY3SDIwVjQuMjloLTIuMzhhMiAyIDAgMCAwLTEuOTEtMS45MVYwem0xLjUzIDE1LjI0SDUuMTRhLjM4LjM4IDAgMCAxLS4zOC0uMzhWNS4xNGEuMzguMzggMCAwIDEgLjM4LS4zOGg5LjcyYS4zOC4zOCAwIDAgMSAuMzguMzh2OS43MmEuMzguMzggMCAwIDEtLjM4LjM4em0tMi4wNy02LjEybC0zLjUgNC44NnYtMy42M0g3LjIybDMuNjEtNC44MXYzLjU4eiIvPiYjeGE7PC9zdmc+;fontSize=18;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="02nrm9O_5QE9hDwr1A-8-11" value="Compute" style="editableCssRules=.*;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjAgMjAiPiYjeGE7CTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+JiN4YTsJLnN0MHtmaWxsOiM0Mjg1ZjQ7fSYjeGE7CTwvc3R5bGU+JiN4YTsJPHBhdGggY2xhc3M9InN0MCIgZD0iTTEzLjMzIDB2Mi4zOGgtMi4xNlYwSDguODN2Mi4zOEg2LjY3VjBINC4yOXYyLjM4YTIgMiAwIDAgMC0xLjkxIDEuOTFIMHYyLjM4aDIuMzh2Mi4xNEgwdjIuMzhoMi4zOHYyLjE0SDB2Mi4zOGgyLjM4YTIgMiAwIDAgMCAxLjkxIDEuOTFWMjBoMi4zOHYtMi4zOGgyLjE2VjIwaDIuMzR2LTIuMzhoMi4xNlYyMGgyLjM4di0yLjM4YTIgMiAwIDAgMCAxLjkxLTEuOTFIMjB2LTIuMzhoLTIuMzh2LTIuMTRIMjBWOC44MWgtMi4zOFY2LjY3SDIwVjQuMjloLTIuMzhhMiAyIDAgMCAwLTEuOTEtMS45MVYwem0xLjUzIDE1LjI0SDUuMTRhLjM4LjM4IDAgMCAxLS4zOC0uMzhWNS4xNGEuMzguMzggMCAwIDEgLjM4LS4zOGg5LjcyYS4zOC4zOCAwIDAgMSAuMzguMzh2OS43MmEuMzguMzggMCAwIDEtLjM4LjM4em0tMi4wNy02LjEybC0zLjUgNC44NnYtMy42M0g3LjIybDMuNjEtNC44MXYzLjU4eiIvPiYjeGE7PC9zdmc+;fontSize=18;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="590" y="217.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="02nrm9O_5QE9hDwr1A-8-12" value="Usage Database" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;fontSize=18;fontColor=#FF0000;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="363.27000000000004" y="130" width="54.06" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="02nrm9O_5QE9hDwr1A-8-17" value="B" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;fontColor=#FF0000;strokeWidth=3;" edge="1" parent="1" source="02nrm9O_5QE9hDwr1A-8-16" target="02nrm9O_5QE9hDwr1A-8-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="02nrm9O_5QE9hDwr1A-8-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;fontColor=#FF0000;strokeWidth=3;entryPerimeter=0;" edge="1" parent="1" source="02nrm9O_5QE9hDwr1A-8-16" target="02nrm9O_5QE9hDwr1A-8-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390.29999999999995" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="02nrm9O_5QE9hDwr1A-8-16" value="Job Manager&lt;br&gt;Web App" style="sketch=0;outlineConnect=0;fontColor=#FF0000;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=18;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.queue;" vertex="1" parent="1">
           <mxGeometry x="343" y="229" width="94.6" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="02nrm9O_5QE9hDwr1A-8-18" value="A" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;fontSize=18;fontStyle=1;fontColor=#FF0000;" edge="1" parent="1">
+        <mxCell id="02nrm9O_5QE9hDwr1A-8-18" value="D" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;fontSize=18;fontStyle=1;fontColor=#FF0000;labelBackgroundColor=none;spacingBottom=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="270" as="sourcePoint" />
             <mxPoint x="210" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="02nrm9O_5QE9hDwr1A-8-19" value="A" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;fontSize=18;fontStyle=1;fontColor=#FF0000;" edge="1" parent="1">
+        <mxCell id="02nrm9O_5QE9hDwr1A-8-19" value="B" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;fontSize=18;fontStyle=1;fontColor=#FF0000;labelBackgroundColor=none;spacingBottom=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="240" as="sourcePoint" />
             <mxPoint x="580" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="02nrm9O_5QE9hDwr1A-8-20" value="A" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;fontSize=18;fontStyle=1;fontColor=#FF0000;" edge="1" parent="1">
+        <mxCell id="02nrm9O_5QE9hDwr1A-8-20" value="C" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;fontSize=18;fontStyle=1;fontColor=#FF0000;labelBackgroundColor=none;spacingBottom=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="270" as="sourcePoint" />
             <mxPoint x="450" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="02nrm9O_5QE9hDwr1A-8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#FF0000;strokeWidth=3;" edge="1" parent="1" source="02nrm9O_5QE9hDwr1A-8-21" target="02nrm9O_5QE9hDwr1A-8-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02nrm9O_5QE9hDwr1A-8-21" value="Usage&lt;br&gt;Database" style="verticalLabelPosition=top;html=1;verticalAlign=bottom;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_reporting;fontSize=18;fontColor=#FF0000;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="370.3" y="120" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="02nrm9O_5QE9hDwr1A-8-22" value="Automated&lt;br&gt;Reporting" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.report;fontSize=18;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="119.2" width="36.8" height="50.8" as="geometry" />
+        </mxCell>
+        <mxCell id="02nrm9O_5QE9hDwr1A-8-27" value="GPU Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="437.6" y="59.19999999999999" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="02nrm9O_5QE9hDwr1A-8-29" value="&lt;font style=&quot;font-size: 14px&quot;&gt;A. CT Matrix, CT Calibration Name and Spot Position + Weightings are sent via ESAPI which awaits responses&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#dae8fc;strokeWidth=2;align=center;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="35" y="400" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="02nrm9O_5QE9hDwr1A-8-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;B. Job Manager sends the data through to compute when available. Returns message to Eclipse instance for ETA.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#d5e8d4;strokeWidth=2;align=center;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="229.60000000000002" y="400" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="02nrm9O_5QE9hDwr1A-8-32" value="&lt;font style=&quot;font-size: 14px&quot;&gt;C. Compute is completed and the resultant matrices are sent back to the job manager to close open task.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#ffe6cc;strokeWidth=2;align=center;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="422" y="400" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="02nrm9O_5QE9hDwr1A-8-33" value="&lt;font style=&quot;font-size: 14px&quot;&gt;D. Results are given back to ESAPI which loads them into Eclipse as a new plan.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#fff2cc;strokeWidth=2;align=center;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="612" y="400" width="180" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
